@@ -1,13 +1,13 @@
 # React-from-scratch
 
-# install dependancies
+## Install dependancies
 
-## npm install
+### npm install
 
-# start development server on port 3000
+## Start development server on port 3000
 
-## npm start
+### npm start
 
-# build a production bundle
+## Build a production bundle
 
-## npm run build
+### npm run build
